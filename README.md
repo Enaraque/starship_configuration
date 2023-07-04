@@ -11,7 +11,7 @@ After doing that, you will notice that our Warp prompt looks quite different. No
 
 To do that we'll modify two diferent files.
 
-First, there is ```starship.toml``` file which needs to be added to the ```~/.config/``` path (e.g., ```~/.config/starship.toml```). This is where we will customize the prompt of our warp terminal.
+First, there is ```starship.toml``` file which needs to be added to the ```~/.config/``` path (e.g., ```~/.config/starship.toml```). This is where we will customize the prompt of our warp terminal.  
 Second, there is ```coolnight_configure``` folder which needs to be added to the ```~/.warp/themes/``` path (e.g., ```~/.warp/themes/coolnight_configure```). Inside this folder we'll find two files, one contains the different colors that will customize our
 warp terminal and the other is the wallpaper fof it. 
 
@@ -19,3 +19,6 @@ warp terminal and the other is the wallpaper fof it.
 Lastly, when we have finished configuring starship, go to Warp's Settings > Appearance, Theme, and type "coolnight". Then, click on the theme that appears.
 
 If the propt doesn't display the icons that we added in the ```starship.toml```, try using  a different font like 'caskydiacCove'. This font can be download [here](https://www.nerdfonts.com/font-downloads).
+
+
+<img width="914" alt="Captura de pantalla 2023-07-04 a las 13 17 54" src="https://github.com/Enaraque/starship_configuration/assets/74021522/18251a40-3095-4983-8346-8ca997ccffc8">
